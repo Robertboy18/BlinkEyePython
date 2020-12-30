@@ -4,7 +4,7 @@
 <hr>
 This project was created just for fun during a chat with some of the other interns in the Microsoft Group. One of them suggested an idea Imagine blinking to compile.
 
-This sparked my interest and after doing some research I finally created this file which does the same exact thing except its a double blink to run. It's not completely full proof yet but feel free to open issues and suggest more ideas on how to make it a fullproof project.
+This sparked my interest and after doing some research I finally created this file which does the same exact thing except its a double blink to run. It's not completely fool proof yet but feel free to open issues and suggest more ideas on how to make it a fullproof project.
 <hr>
 
 **Important Modules to Install**
